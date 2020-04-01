@@ -1,0 +1,14 @@
+#!/bin/sh
+#程序说明：
+#用来更新我的博客用的
+
+PATH="${PATH}:/usr/local/node/bin"
+export PATH
+
+cd /home/muyang/blog
+hexo g -d
+git add ./*
+git commit -m "`date +%Y-%m-%d`"
+git push origin master
+
+exit 0
