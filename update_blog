@@ -5,10 +5,15 @@
 PATH="${PATH}:/usr/local/node/bin"
 export PATH
 
-cd /home/muyang/blog
-hexo g -d
-git add ./*
-git commit -m "`date +%Y-%m-%d`"
-git push origin master
+hexo clean
+# 生成
+cd /home/shepherd/blog
+hexo g
+
+# 部署
+cd /home/shepherd/blog/.deploy_git
+git commit --amend -m "来自hexo分支的脚本自动更新:`date +%Y-%m-%d`"
+git push origin master -f
+git push coding master -f
 
 exit 0
