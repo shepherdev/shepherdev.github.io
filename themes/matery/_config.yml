@@ -104,7 +104,7 @@ video:
 # Whether to display the title of the recommended posts
 # 是否显示推荐文章的标题
 recommend:
-  enable: true
+  enable: false
   showTitle: true
   useConfig: false # 是否使用配置文件, 在 _data/recommends.json 下配置推荐文章, false则会走主题配置的 top 属性
   # useConfig 使用方式: 将主题 hexo-theme-matery/source/_data/recommends.json 移动到 my-blog/source/_data/下修改配置即可
@@ -266,12 +266,12 @@ postCalendar: true
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
-  enable: false
+  enable: true
   owner: shepherdev
   repo: shepherdev.github.io
   oauth: 
-    clientId: 430c6427a1e56b807a36
-    clientSecret: 840b8f9e98751739844ece0f94bb3cb7eef025d0
+    clientId: 9979ee29305ddae1e7c4
+    clientSecret: d0496f7e8fbca5afe5d55a5c7d53ed19c1b49e59
   admin: 
     - shepherdev
   labels: gitalk

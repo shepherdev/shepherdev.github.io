@@ -12,13 +12,16 @@
     "version": "4.1.1"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "hexo": "^4.0.0",
     "hexo-deployer-git": "^2.1.0",
     "hexo-filter-github-emojis": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-baidu-sitemap": "^0.1.6",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^1.0.0",
     "hexo-generator-search": "^2.4.0",
+    "hexo-generator-sitemap": "^2.0.0",
     "hexo-generator-tag": "^1.0.0",
     "hexo-permalink-pinyin": "^1.1.0",
     "hexo-prism-plugin": "^2.3.0",
@@ -27,6 +30,10 @@
     "hexo-renderer-marked": "^2.0.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0",
-    "hexo-wordcount": "^6.0.1"
+    "hexo-wordcount": "^6.0.1",
+    "request": "^2.88.2",
+    "sitemap": "^6.1.0",
+    "xml-parser": "^1.2.1",
+    "yamljs": "^0.3.0"
   }
 }

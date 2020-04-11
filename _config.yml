@@ -102,6 +102,8 @@ deploy:
     github: git@github.com:shepherdev/shepherdev.github.io.git
     coding: git@e.coding.net:ych2n/yangchaohe.git
   branch: master
+  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
+  
 
 #matery
 #高亮
@@ -151,4 +153,12 @@ qiniu:
   css:
     folder: css
 
+# 添加sitemap
+Plugins:
+- hexo-generator-baidu-sitemap
+- hexo-generator-sitemap
 
+baidusitemap:
+    path: baidusitemap.xml
+sitemap:
+    path: sitemap.xml

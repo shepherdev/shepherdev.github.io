@@ -1,0 +1,29 @@
+language: node_js
+cache:
+  directories:
+   - node_modules
+branches:
+  only:
+    - hexo
+install:
+  - npm install hexo-cli -g
+  - npm install
+script:
+  - hexo clean
+  - hexo g
+after_script:
+  - cd ./public
+  - git init
+  - git config user.name "shepherdev"
+  - git config user.email "shepherd2001@163.com"
+  - git add .
+  - git commit -m "Travis CI Auto Builder at $(date +'%Y-%m-%d')"
+  - git push --force --quiet "https://${ACCESS_TOKEN}@github.com/shepherdev/shepherdev.github.io.git" master:master
+notifications:
+  email:
+    - shepherd2001@163.com
+# before_script:
+#   - git submodule update --init --recursive
+#   - sed -i "s/https:\/\/\(github\.com\/shepherdev\/shepherdev\.github\.io\.git\)/https:\/\/$ACCESS_TOKEN@\1/" _config.yml
+
+
