@@ -162,3 +162,8 @@ baidusitemap:
     path: baidusitemap.xml
 sitemap:
     path: sitemap.xml
+
+# 自动初始化评论
+owner: shepnerdev
+comment_repo: shepherdev.github.io # 对应于repo配置
+labels: ["comment"]
