@@ -1,7 +1,19 @@
 ---
-title: 关于
-date: 2019-12-17 22:37:06
-type: "about"
-layout: "about"
+date: 2020-04-12 
+comments: false
 ---
 
+
+
+<br>
+
+#### 时间轴记录
+
+---
+
+<div class="time-axis-main">
+	<ul class="time-axis"></ul>
+</div>
+<script src="/js/about-me.js"></script>
+<br>
+<br>

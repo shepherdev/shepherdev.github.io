@@ -19,7 +19,7 @@ tags:
 
 因为主题自带gitalk插件，虽然版本有点老，所以只需申请Github Application即可
 
-[点击申请](https://github.com/settings/applications/news)
+[点击申请](https://github.com/settings/applications/new)
 
 得到clientID和client Secret填入主题的配置文件即可
 
