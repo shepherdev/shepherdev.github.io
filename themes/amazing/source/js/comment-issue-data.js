@@ -1,8 +1,8 @@
 // 评论issues仓库 by.removeif https://removeif.github.io/
-var repoIssuesUrl = "https://api.github.com/repos/shepherdev/shepherdev.github.io/issues";
+var repoIssuesUrl = "https://api.github.com/repos/shepherdev/blog_comment/issues";
 // 对应仓库 clientId、clientSecret 关于这两个参数的安全问题，查看 https://removeif.github.io/2019/09/19/博客源码分享.html#1-热门推荐，最新评论：
-var clientId = "1b0e917b9ddb53e53dfb";
-var clientSecret = "5087e1156c1fdb92860d0dda664910168ec725b2";
+var clientId = "c5f05f5fa12f4e1ab9a4";
+var clientSecret = "8526beabe2d0527f90d7550ae50579282301945d";
 var authorizationToken = 'Basic ' + btoa(clientId + ':' + clientSecret);
 // 写comment count值
 var reqCommentCountUrl = repoIssuesUrl + "?t=" + new Date().getTime() + "&labels=Gitalk,";

@@ -322,9 +322,9 @@ comment:
     # Disqus shortname
 #    shortname: ''
     owner: shepherdev         # (required) GitHub user name
-    repo: shepherdev.github.io          # (required) GitHub repository name
-    client_id: 1b0e917b9ddb53e53dfb     # (required) OAuth application client id
-    client_secret: 5087e1156c1fdb92860d0dda664910168ec725b2 # (required) OAuth application client secret
+    repo: blog_comment          # (required) GitHub repository name
+    client_id: c5f05f5fa12f4e1ab9a4     # (required) OAuth application client id
+    client_secret: 8526beabe2d0527f90d7550ae50579282301945d # (required) OAuth application client secret
     admin:
         - shepherdev
     create_issue_manually: true
