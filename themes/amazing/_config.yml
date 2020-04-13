@@ -351,7 +351,7 @@ footer_copyright_dsec: true #footer 版权说明 true-开 false-关
 
 has_live_2D_switch: false #live2D开关 true-开 false-关
 
-side_music_netease_id: 465194703 #侧边栏网易云歌单id
+side_music_netease_id: 4967313247 #侧边栏网易云歌单id
 
 use_pjax: true #是否开启pjax，false-不开启，true-开启，开启后局部更新网页信息，切换页面背景音乐不间断等特性
 
