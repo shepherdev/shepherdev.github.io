@@ -21,6 +21,8 @@ tags:
 
 [点击申请](https://github.com/settings/applications/new)
 
+<!--more -->
+
 得到clientID和client Secret填入主题的配置文件即可
 
 然后推送到仓库，使用管理员账户登录这个网页即可创建issue
