@@ -1,19 +1,10 @@
 ---
-title: 
+title: 多态与接口
 date: 2020-3-3
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
+categories: [Java,多态]
+tag: [多态,接口]
 ---
 
 ## 多态
@@ -28,6 +19,8 @@ tags:
 - 若要访问子类的成员，需要**强制类型转换**，如
 
 `((子类)对象).成员`
+
+<!-- more -->
 
 > 注意，不能使用子类声明，父类构造
 

@@ -1,20 +1,9 @@
 ---
-title: 
+title: 理解多线程
 date: 2020-3-9
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
-  - 多线程
+categories: [Java,多线程]
 ---
 
 # 进程与线程

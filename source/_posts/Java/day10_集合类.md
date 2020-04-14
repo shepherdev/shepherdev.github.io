@@ -1,19 +1,10 @@
 ---
-title: 
+title: 集合类
 date: 2020-3-5
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
+categories: [Java]
+tag: 集合
 ---
 
 ## ArrayList集合

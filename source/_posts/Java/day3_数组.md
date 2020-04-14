@@ -1,19 +1,10 @@
 ---
-title: 
+title: 数组
 date: 2020-2-27
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
+categories: [Java]
+tag: [数组]
 ---
 
 ## 引用数据类型和基本数据类型在创建的区别
@@ -24,6 +15,8 @@ tags:
   - 初始化在堆里或方法区里分配内存，**创建实际数据**
     - `new`在堆里
     - 程序运行常量放在方法区里
+
+<!-- more -->
 
 ## 栈
 

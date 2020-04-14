@@ -1,19 +1,9 @@
 ---
-title: 
+title: 条件判断和字符串
 date: 2020-2-24
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
+categories: [Java]
 ---
 
 ## 条件判断

@@ -1,8 +1,7 @@
 ---
-thumbnail: http://wx2.sinaimg.cn/large/b5d1b710ly1g6s7jq3pi1j212w0k3n27.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/blog_image/blog/mito3.png
 date: 2018-11-11 08:24:49
 comments: true
 ---
 
-**来而不往非礼也**  
-**畅所欲言，有留必应**
+**如果你有什么建议或者问题，那么就在这里说出来吧！**

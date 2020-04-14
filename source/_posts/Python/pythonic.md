@@ -1,19 +1,10 @@
 ---
-title: 
+title: python特性
 date: 2020-4-4 6:00
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: true
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Python
+categories: python
+tags: pythonic
 ---
 
 很python的东西

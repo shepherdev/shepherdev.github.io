@@ -1,24 +1,15 @@
 ---
-title: 
+title: 工具类
 date: 2020-3-4
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
+categories: [Java]
+tag: [随机数,包装类]
 ---
 
 ## Arrays数组工具类
 
-举个例子，不想说话
+举个例子
 
 ```java
 import java.util.Arrays;
@@ -37,6 +28,8 @@ public class ArrarysTest {
     }
 }
 ```
+
+<!-- more -->
 
 ## Math工具类
 

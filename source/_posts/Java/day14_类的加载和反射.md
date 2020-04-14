@@ -1,20 +1,9 @@
 ---
-title: 
+title: 类的加载和反射
 date: 2020-3-11
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: true
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
-  - 多线程
+categories: [Java,反射]
 ---
 
 ## 类的加载
@@ -22,6 +11,8 @@ tags:
 - 当程序运行的时候，系统会首先把要使用的Java类加载到内存中，加载的是编译后的class文件
 - 每个类加载到内存中，会创建一个对应的Class对像，这个对象保存了这个类有哪些成员（数据，方法）
 - 我们的程序用到什么类，才会加载什么类
+
+<!-- more -->
 
 ## 类的加载器
 

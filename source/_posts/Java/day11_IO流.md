@@ -1,81 +1,10 @@
 ---
-title: 
+title: 理解IO流
 date: 2020-3-6
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
+categories: [Java,IO流]
 ---
-
-## 可变参数
-
-当我们需要的参数不确定，或则很多时，方法重载就不适用了，可变参数有两种形式
-
-### 1.可变参数
-
-```java
-package com.shepherd.parameter;
-
-public class KeBian {
-    public static void main(String[] args) {
-        System.out.println(add(23,23,23,45));
-    }
-    
-    public static int add(int... args) {
-        int result=0;
-        for(int i : args) {
-            result += i;
-        }
-        return result;
-    }
-}
-```
-
-### 2.数组参数
-
-```java
-package com.shepherd.parameter;
-
-public class Arrays {
-    public static void main(String[] args) {
-        System.out.println(add(new int[]{23,34,34}));
-    }
-    
-    public static int add(int[] args) {
-        int result=0;
-        for(int i : args) {
-            result += i;
-        }
-        return result;
-    }
-}
-```
-
-注意
-
-- 可变参数的是个数可变
-- 在调用方法时，如果可变参数方法和固定参数方法重复的话，优先固定参数
-- 一个方法只能有一个可变参数，而且放在最后
-  - `(int a, String... s)`
-
-## 单元测试
-
-### Junit
-
-在写大型程序时，肯定是写一些代码测试一些代码，不可能再把所有代码运行一遍
-
-在eclipse里面添加Junit库后在方法前面添加注解`@Test`即可进行单元测试
-
-添加方法：eclipse的Project Explorer右键-->Build Path-->Configure Path-->Java Build Path-->Libraries-->Moudlespath-->add Library-->classpath-->Junit
 
 ## IO流-1.0（文件操作）
 

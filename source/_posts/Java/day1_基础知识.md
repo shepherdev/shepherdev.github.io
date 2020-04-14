@@ -1,21 +1,11 @@
 ---
-title: 
+title: Java基础
 date: 2020-2-23
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
 categories: [Java]
-tags:
-  - Java
+tags: [JDk]
 ---
-
-
 
 ## Java简介
 

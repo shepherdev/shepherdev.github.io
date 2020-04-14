@@ -1,19 +1,10 @@
 ---
-title: 
+title: 理解继承
 date: 2020-3-2
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
+categories: [Java,对象]
+tag: [方法重载,方法重写,内部类]
 ---
 
 ## 继承
@@ -25,6 +16,8 @@ tags:
 ### 优点
 
 当不同的类使用相同的成员变量/方法时，可以将相同的变量/方法放在其他类，简化代码，方便维护
+
+<!-- more -->
 
 例子(定义+使用)
 

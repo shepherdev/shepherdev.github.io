@@ -1,26 +1,17 @@
 ---
-title: 
+title: 网络编程
 date: 2020-3-10
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
-  - 多线程
+categories: [Java,多线程]
 ---
 
 ## ip与port
 
 - ip可以访问我们的设备
 - 端口可以访问到设备里的程序
+
+<!-- more -->
 
 ## 通信协议
 

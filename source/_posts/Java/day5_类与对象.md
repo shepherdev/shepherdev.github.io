@@ -1,19 +1,10 @@
 ---
-title: 
+title: 理解类和对象
 date: 2020-2-29
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - Java
+categories: [Java,对象]
+tag: [构造方法,封装]
 ---
 
 ## 类class
@@ -33,6 +24,8 @@ class 类名{
 	}
 }
 ```
+
+<!-- more -->
 
 ### 特点
 
@@ -221,7 +214,7 @@ class StaticDemo{
 
 ### 解释原理图
 
-<img src="/home/shepherd/blog_pic/static原理.png" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/shepherdev/blog_image/article/2020/static原理.png" style="zoom:50%;" />
 
 ### 结论
 
