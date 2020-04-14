@@ -36,6 +36,8 @@ if (布尔表达式) {
 }
 ```
 
+<!-- more -->
+
 ### 2.switch语句
 
 ```java
@@ -148,7 +150,7 @@ while(){
 
 如图
 
-<img src="/home/shepherd/blog_pic/引用数据类型存放内存.png" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/shepherdev/blog_image/article/2020/引用数据类型存放内存.png" alt="引用数据类型存放内存" style="zoom:50%;" />
 
 - 基本数据类型变量改变时会直接覆盖原始数据
 - 引用数据类型的原始数据不会被删除，改变时会创建新的数据，并改变地址指向
@@ -238,7 +240,7 @@ System.out.println(str1==str2);
 
 看图：
 
-<img src="/home/shepherd/blog_pic/字符串new存储方式.png" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/shepherdev/blog_image/article/2020/字符串new存储方式.png" alt="字符串new存储方式" style="zoom:50%;" />
 
 2.`s.equals(String str);`
 

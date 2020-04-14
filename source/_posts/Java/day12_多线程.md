@@ -24,6 +24,8 @@ tags:
 - 也就是在进程里面有多线程
 - 线程的作用：完成多任务，比如游戏角色和AI
 
+<!-- more -->
+
 ### 主线程
 
 - java的主线程都是从main方法里执行的，主线程是系统默认创建出来的（JVM）
@@ -138,7 +140,7 @@ thread.interrupt();
 
 ### 线程的生命周期
 
-<img src="/home/shepherd/blog_pic/threadStat.png" alt="threadStat" style="zoom:50%;" />
+![threadStat](https://cdn.jsdelivr.net/gh/shepherdev/blog_image/article/2020/threadStat.png)
 
 ### 特点
 

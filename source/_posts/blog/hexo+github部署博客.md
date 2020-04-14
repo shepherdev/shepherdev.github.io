@@ -2,15 +2,8 @@
 title: Hexo+GitHub搭建博客
 date: 2019-12-20 19:37:26
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: true
-mathjax: false
-summary: 
-categories: 博客
+categories: [博客,部署]
 tags:
   - hexo
   - github

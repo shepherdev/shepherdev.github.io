@@ -2,13 +2,7 @@
 title: Gitalk和Travis自动化
 date: 2020-4-11 19:37:26
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
-mathjax: false
-summary: 
+toc: true
 categories: [博客,工具]
 tags:
   - gitalk

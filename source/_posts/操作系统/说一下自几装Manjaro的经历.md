@@ -1,27 +1,19 @@
 ---
-title: 
+title: Manjaro
 date: 2020-2-19 22:37:26
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
+categories: [操作系统]
 toc: true
-mathjax: false
-summary: 
-categories: 
-  - OS
 tags:
   - Linux
   - 装系统
 ---
 
-
-
 说一下自几装Manjaro的经历
 
 1.在分区时将/usr独立，导致开机启动提示/sbin/init does not exist，并且啥也不能输入，原因我还没弄懂
+
+<!-- more -->
 
 2.进入系统后，将亮度条拉到最低，最想不到的事出现了，黑屏（纯黑），我的电脑屏幕可不是A屏，我没想到这kde的开发者怎么坑，竟然把亮度最低弄到了黑屏QWQ，废了半天，终于找到了解决办法：
 

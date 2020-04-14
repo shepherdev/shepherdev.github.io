@@ -2,26 +2,18 @@
 title: 
 date: 2020-3-31
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: true
-mathjax: false
-summary: 
-categories: 
-  - 生活
-tags:
-  - git
+categories: [开发工具,git]
 ---
 
 记录一些日常常用指令，参考
-https://www.liaoxuefeng.com/wiki/896043488029600/896827951938304
+[廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/896043488029600/896827951938304)
 
 > ssh协议不需要每次输密码，使用的是密钥对
 >
 > https协议需要每次输入账户名和密码
+
+<!-- more -->
 
 ```bash
 git config --global user.name "Your Name"

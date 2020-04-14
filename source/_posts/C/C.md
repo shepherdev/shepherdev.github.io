@@ -1,19 +1,9 @@
 ---
-title: C
+title: C语言基础
 date: 2019-11-1 22:37:26
 author: shepherd
-img: 
-top: false
-cover: false
-coverImg: 
-password:
 toc: ture
-mathjax: false
-summary: 
-categories: 
-  - 编程
-tags:
-  - C
+categories: [C]
 ---
 
 ## 基础
@@ -51,7 +41,7 @@ int main ()//圆括号里为参数，main前面为类型，为main返回值类�
 ## 常量
 
 宏定义:
-#define 常量名 数据
+`#define 常量名 数据`
 
 函数内定义:
 const  类型  类型名;

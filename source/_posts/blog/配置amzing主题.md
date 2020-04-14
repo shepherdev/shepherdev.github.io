@@ -1,14 +1,9 @@
 ---
-title: Gitalk和Travis自动化
+title: amazing主题
 date: 2020-4-13 21:37:26
 author: shepherd
-img: 
-password:
-summary: 
 categories: [博客,主题]
-tags:
- 	- icraus
-	- amazing
+tags: [icraus,amazing]
 ---
 
 发现了一个很美的主题，icraus

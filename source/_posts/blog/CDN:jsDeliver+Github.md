@@ -2,9 +2,6 @@
 title: 免费的CDN+Picgo
 date: 2020-4-13 21:37:26
 author: shepherd
-img: 
-password:
-summary: 
 categories: [博客,工具]
 tags:
 	- CDN
@@ -35,7 +32,7 @@ tags:
 
 <img src="https://cdn.jsdelivr.net/gh/shepherdev/blog_image/article/2020/943a485d76fbbcc50c15a49f5644cbb1.png" style="zoom:33%;" />
 
-再陪个picgo，typora，简直不要太爽
+再配合PicGo，typora，简直不要太爽
 
 参考文章
 
