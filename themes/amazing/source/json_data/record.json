@@ -1,7 +1,22 @@
 [
   {
+    "date": "2020.4.14",
+    "title": "使用了jsDelivr加速，encrypt插件进行文章加密，至此，博客迁移完毕",
+    "achievement": "-shepherdev"
+  },
+  {
     "date": "2020.4.12",
     "title": "博客重大更新",
+    "achievement": "-shepherdev"
+  },
+  {
+    "date": "2019.12.30",
+    "title": "更换博客主题为matery，开始写无聊的笔记",
+    "achievement": "-shepherdev"
+  },
+  {
+    "date": "2019.12.09",
+    "title": "基于hexo的gthub静态网页yangchaohe诞生",
     "achievement": "-shepherdev"
   }
 ]
