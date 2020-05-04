@@ -3,7 +3,7 @@ title: python特性
 date: 2020-4-4 6:00
 author: shepherd
 toc: true
-categories: python
+categories: Python
 tags: pythonic
 ---
 

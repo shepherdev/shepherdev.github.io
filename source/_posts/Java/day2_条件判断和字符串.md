@@ -180,7 +180,7 @@ System.out.println(str.length());
 
 从字符串末尾开始查找，返回第一个字符的索引
 
-#### 获取指定索引的字符。
+#### 获取指定索引的字符
 
 `s.charAt(int index);`
 
