@@ -41,5 +41,5 @@ Loading modules: vboxnetadp vboxnetflt vboxdrv
 
 然后重新打开virtualbox，运行正常
 
-![](https://cdn.jsdelivr.net/gh/shepherdev/blog_image/article/2020/vm virtualbox.png)
+![virtualbox](https://cdn.jsdelivr.net/gh/shepherdev/blog_image/article/2020/vm-virtualbox.png)
 
