@@ -11,6 +11,8 @@ tags:
 
 *本教程只适用`windows`系统*
 
+<!-- more -->
+
 ##  GitHub创建个人仓库 
 
 - 注册一个[GitHub]( https://github.com/ )账户，创建一个仓库，仓库名字固定写法为

@@ -3,9 +3,13 @@ title: 理解类和对象
 date: 2020-2-29
 author: shepherd
 toc: ture
-categories: [Java,对象]
+categories: [Java]
 tag: [构造方法,封装]
 ---
+
+类就是一个模板，将模板实例就是对象
+
+<!-- more -->
 
 ## 类class
 
@@ -24,8 +28,6 @@ class 类名{
 	}
 }
 ```
-
-<!-- more -->
 
 ### 特点
 

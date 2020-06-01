@@ -7,9 +7,10 @@ toc: true
 tags:
   - Linux
   - 装系统
+  - 系统优化
 ---
 
-说一下自几装Manjaro的经历
+说一下自己装Manjaro的经历
 
 1.在分区时将/usr独立，导致开机启动提示/sbin/init does not exist，并且啥也不能输入，原因我还没弄懂
 

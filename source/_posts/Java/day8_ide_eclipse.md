@@ -4,7 +4,7 @@ date: 2020-3-3
 author: shepherd 
 password:
 toc: ture
-categories: [Java,IDE]
+categories: [Java]
 tag: eclipse
 ---
 

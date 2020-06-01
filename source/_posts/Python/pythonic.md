@@ -1,5 +1,5 @@
 ---
-title: python特性
+title: pythonic
 date: 2020-4-4 6:00
 author: shepherd
 toc: true
@@ -8,6 +8,8 @@ tags: pythonic
 ---
 
 很python的东西
+
+<!-- more -->
 
 ### 列表推导式
 
@@ -24,8 +26,6 @@ print(c)
 >>>[16, 25, 36, 49]
 >>>{64, 1, 8, 343, 216, 27, 125}
 ```
-
-<!-- more -->
 
 ### None
 

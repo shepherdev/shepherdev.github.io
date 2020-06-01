@@ -3,8 +3,12 @@ title: 理解多线程
 date: 2020-3-9
 author: shepherd
 toc: ture
-categories: [Java,多线程]
+categories: [Java]
 ---
+
+就像AI与玩家
+
+<!-- more -->
 
 # 进程与线程
 
@@ -12,8 +16,6 @@ categories: [Java,多线程]
 - 而进程有主线程和其他线程
 - 也就是在进程里面有多线程
 - 线程的作用：完成多任务，比如游戏角色和AI
-
-<!-- more -->
 
 ### 主线程
 

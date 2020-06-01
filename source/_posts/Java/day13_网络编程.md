@@ -3,15 +3,17 @@ title: 网络编程
 date: 2020-3-10
 author: shepherd
 toc: ture
-categories: [Java,多线程]
+categories: [Java]
 ---
+
+使用套接字进行编程
+
+<!-- more -->
 
 ## ip与port
 
 - ip可以访问我们的设备
 - 端口可以访问到设备里的程序
-
-<!-- more -->
 
 ## 通信协议
 

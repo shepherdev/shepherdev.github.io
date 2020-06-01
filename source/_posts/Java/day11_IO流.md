@@ -3,8 +3,12 @@ title: 理解IO流
 date: 2020-3-6
 author: shepherd
 toc: ture
-categories: [Java,IO流]
+categories: [Java]
 ---
+
+ 操作文件就是IO
+
+<!-- more -->
 
 ## IO流-1.0（文件操作）
 
@@ -20,8 +24,6 @@ categories: [Java,IO流]
 
 - 运行的程序数据放在内存
 - 照片，文档放在硬盘
-
-<!-- more -->
 
 ### 什么是IO流
 
@@ -553,3 +555,4 @@ public void testFileReader() {
 - Reader-->BufferedReader
 
 - 可以设置缓冲区大小
+

@@ -7,6 +7,10 @@ categories: [Java]
 tag: [随机数,包装类]
 ---
 
+ 平常会用到的一些工具
+
+<!-- more -->
+
 ## Arrays数组工具类
 
 举个例子
@@ -28,8 +32,6 @@ public class ArrarysTest {
     }
 }
 ```
-
-<!-- more -->
 
 ## Math工具类
 
