@@ -1,5 +1,5 @@
 ---
-title: Manjaro
+title: 安装Manjaro的小问题
 date: 2020-2-19 22:37:26
 author: shepherd
 categories: [操作系统,Linux]

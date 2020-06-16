@@ -80,23 +80,25 @@ One-third是主语,the students是定语(将1/3的范围缩小了),in this class
 
 #### **be动词**
 
-am、is、are、was、were、be
+常用: am、is、are、was、were、be
+
+用法: be+doing/done.
 
 #### **情态动词**
 
-can、could (能够)
+**常用**
 
-will、would (将要)
+- can、could (能够)
 
-shall、should (应该)
 
-may、might (可能)
+- will、would (将要)
+- shall、should (应该)
+- may、might (可能)
+- must、[have to] (必须)
+- need、dare (需要)
+- had better (最好)
 
-must、[have to] (必须)
-
-need、dare (需要)
-
-had better (最好)
+**用法**: 情态+do.
 
 **特点**
 
@@ -107,13 +109,40 @@ had better (最好)
 
 #### **狭义助动词**
 
-do、does、did
+常用: do、does、did
+
+用法: +do
 
 #### **完成助动词**
 
 帮助构成完成时.
 
-have、has、had
+常用: have、has、had
+
+用法: +done.
+
+#### 作用
+
+1. 帮助构成时态
+   - The boy <u>is crying</u>.(进行)
+   - He <u>has arrived</u>.(完成)
+   - I <u>have been painting</u> all day.(完成+进行)
+2. 帮助构成否定句和疑问句
+   - **Does** he **like** English?(疑问)
+   - He **doesn't have** lunch at home.(否定)
+3. 帮助构成被动语态
+   - Trees **are planted** in spring.(被动)
+   - The house **has been pulled** down.(完成+被动)
+4. *帮助构成虚拟语气
+   - If he **had come** yesterday, I wouldn't have made such a mistake.
+5. *帮助构成到装句
+   - So much did he love his mother that he bought her many presents on her birthday.
+6. 帮助构成强调意义
+   - He did come yesterday.
+
+> He **did(实义)** his homework at seven o'clock.
+>
+> **Did(助)** he **do(实义)** his homework yesterday?
 
 ### 实义动词
 

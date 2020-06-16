@@ -1,13 +1,13 @@
 #!/bin/sh
 
-PATH=/home/shepherd/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/java-13-jdk/bin/:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/usr/local/node/bin
+PATH=/home/shepherdev/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/java-13-jdk/bin/:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/usr/local/node/bin
 cd /home/shepherd/blog
 export PATH
 
 hexo clean
 hexo g
 cd ./public
-if [ ${pwd}=="/home/shepherd/blog/public" ]; then
+if [ ${pwd}=="/home/shepherdev/blog/public" ]; then
     git init
     git remote add origin git@github.com:shepherdev/shepherdev.github.io.git
     git add .
