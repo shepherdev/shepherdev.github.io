@@ -9,12 +9,12 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "4.2.0"
+    "version": "4.2.1"
   },
   "dependencies": {
     "bulma-stylus": "^0.8.0",
     "cheerio": "^1.0.0-rc.3",
-    "hexo": "^4.2.0",
+    "hexo": "^4.2.1",
     "hexo-blog-encrypt": "^3.0.12",
     "hexo-deployer-git": "^2.1.0",
     "hexo-filter-mermaid-diagrams": "^1.0.5",
