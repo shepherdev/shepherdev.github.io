@@ -62,7 +62,7 @@ git config --global user.email "email@example.com"
 
 `git push orgin master`后续推送（可选择不同的分支）
 
-`git clong git@sever-name:path/repo-name.git`克隆远程仓库
+`git clone git@sever-name:path/repo-name.git`克隆远程仓库
 
 - 默认克隆只有master分支
 
@@ -219,3 +219,29 @@ git config --global alias.st status
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 ```
 
+### status中文乱码
+
+默认的配置里, 使用中文命名并使用git status查看会得到中文的字符码, 可以通过下面的指令解决
+
+```bash
+git config --global core.quotepath false
+```
+
+或者修改配置文件`~/.gitconfig`
+
+```bash
+[gui]  
+    encoding = utf-8  
+    # 代码库统一使用utf-8  
+[i18n]  
+    commitencoding = utf-8  
+    # log编码  
+[svn]  
+    pathnameencoding = utf-8  
+    # 支持中文路径  
+[core]
+    quotepath = false 
+    # status引用路径不再是八进制（反过来说就是允许显示中文了）
+```
+
+> 参考[解决git-status不能显示中文](https://blog.csdn.net/u012145252/article/details/81775362#解决git-status不能显示中文)
