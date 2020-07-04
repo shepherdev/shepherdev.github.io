@@ -1,5 +1,5 @@
 ---
-thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/blog_image/blog/mito3.png
+thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/blog/mito3.png
 date: 2018-11-11 08:24:49
 comments: true
 ---

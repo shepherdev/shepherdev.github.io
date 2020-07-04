@@ -1,5 +1,10 @@
 [
   {
+    "date": "2020.7.4",
+    "title": "笔记和技术博客分离,并对博客进行细微调整",
+    "achievement": "-shepherdev"
+  },
+  {
     "date": "2020.4.14",
     "title": "使用了jsDelivr加速，encrypt插件进行文章加密，至此，博客迁移完毕",
     "achievement": "-shepherdev"

@@ -1,12 +1,12 @@
 **预览图**
 + 首页1
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200208141757.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200208141757.png)
 + 首页2
-<img src="https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200208142200.png" style="zoom:200%;" />
+<img src="https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200208142200.png" style="zoom:200%;" />
 + 博客文章
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200208142111.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200208142111.png)
 + 首页深色
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200208142013.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200208142013.png)
 
 ### 写在前面
 
@@ -190,7 +190,7 @@ toc: true
 recommend: 1 
 keywords: categories-github
 date: 2019-09-19 22:10:43
-thumbnail: https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20190919221611.png
+thumbnail: https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20190919221611.png
 tags: 工具教程
 categories: [工具教程,主题工具]
 ```
@@ -228,7 +228,7 @@ wrong_hash_message: 不好意思，信息无法验证！
 注：**加密文章不会出现在最新文章列表widget中，也不会出现在文章中推荐列表中，首页列表中需要设置top: -1 让它排在最后比较合理一些。**
 #### 10.碎碎念的使用
 在github中，创建碎碎念issue，并且打上对应的label（`eg:Gitalk,666666`）如下图，此处666666对应下面配置代码中的id，填写到：博客目录/source/self-talking/index.md文件中如下对应位置，其余配置也要改成自己的，如clientID等。
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200310182707.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200310182707.png)
 ```js
 <script>
     $.getScript("/js/gitalk_self.min.js", function () {
@@ -247,7 +247,7 @@ wrong_hash_message: 不好意思，信息无法验证！
 </script>
 ```
 如下：
-![碎碎念](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200119181607.png)
+![碎碎念](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200119181607.png)
 #### 11.本博客样式（透明无界）
 只需要放开themes/amazing/source/css/base.styl文件中以下样式代码注释即可，默认是注释的没启用
 ```css 
@@ -296,14 +296,14 @@ body:not(.night) .post-navigation:hover{
 //=================本博客使用样式   end
 ```
 如下：
-![无界样式](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200218084713.png)
+![无界样式](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200218084713.png)
 #### 精简部分widget数据
 widget中的归档和分类和标签精简了，数据多时很丑，改为了分别展示5条和10条和20条，增加了查看全部。
-![查看全部](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200119181201.png)
+![查看全部](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200119181201.png)
 
 #### gitalk评论增加评论开关，评论列表中标记博主
 需要关闭评论的在文章头部加入 `comments: false`,原来已经评论的依然会显示，如下
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200211151129.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200211151129.png)
 
 原来已有博客文章的迁移，只需要把原来对应的文章放到source/_posts里即可。然后去对应文章下面创建评论issue。  
 #### 其余配置
@@ -355,13 +355,13 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 <div class="img-x">
 
-![v4](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191022182226.png) ![v3](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191018114126.png) ![v4](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191022182226.png) ![v3](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191018114126.png)</div>
+![v4](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191022182226.png) ![v3](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191018114126.png) ![v4](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191022182226.png) ![v3](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191018114126.png)</div>
 
 + 竖图5
 
 <div class="img-y">
 
-![电池](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191024145940.jpg) ![打王者荣耀](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191024141906.jpg) ![支付宝付款](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191024141926.jpg) ![锤子便签](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191024145956.jpg) ![电池](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191024145940.jpg)</div>
+![电池](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191024145940.jpg) ![打王者荣耀](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191024141906.jpg) ![支付宝付款](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191024141926.jpg) ![锤子便签](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191024145956.jpg) ![电池](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191024145940.jpg)</div>
 
 ```
 #### 效果如下（多图左右拉查看）
@@ -369,25 +369,25 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ### 主题快照：
 + 主页
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200208141757.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200208141757.png)
 + 置顶
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20190926210437.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20190926210437.png)
 + 文章评论数
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191016133335.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191016133335.png)
 + 推荐文章模块
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20191107131513.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191107131513.png)
 + 归档
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200214190807.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2020/20200214190807.png)
 + 留言
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20190919221820.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20190919221820.png)
 + 友链
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20190919221917.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20190919221917.png)
 + 美图
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20190919221949.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20190919221949.png)
 + 影音
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20190919222030.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20190919222030.png)
 + 关于
-![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2019/20190919222131.png)
+![](https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20190919222131.png)
 
 ### 提供hexo博客目录下依赖包 package.json
 ```json
