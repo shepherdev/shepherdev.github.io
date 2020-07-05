@@ -1,7 +1,7 @@
 ---
 date: 2020-04-12 
 comments: false
-thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/blog/mito2.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/blog/mito2.jpg
 ---
 
 大一在校生, 专业计算机网络, 尚无建树. 

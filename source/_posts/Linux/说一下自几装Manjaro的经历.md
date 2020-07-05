@@ -1,5 +1,5 @@
 ---
-thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/thumbnail/manjaro/block-font-logo3.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/thumbnail/manjaro/block-font-logo3.jpg
 title: 安装Manjaro
 date: 2020-2-19 22:37:26
 author: shepherd

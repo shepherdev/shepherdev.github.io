@@ -1,5 +1,5 @@
 ---
-thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/thumbnail/eye.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/thumbnail/eye.jpg
 title: 配置amazing主题
 date: 2020-4-13 21:37:26
 author: shepherd

@@ -4,7 +4,7 @@ date: 2020-5-26 12:00
 author: shepherd
 toc: true
 categories: [博客,工具]
-thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/thumbnail/water/water.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/thumbnail/water/water.jpg
 ---
 
 在绘制流程图等简单图形上面，打开图形绘制工具，画完保存，上传图床，复制链接（虽然typora简化了这些），但在看到某博客上面的一些使用asc，unicode字符做的图后，觉得很~~牛逼~~方便，于是便开始找工具制作。

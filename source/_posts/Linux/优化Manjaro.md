@@ -1,6 +1,6 @@
 ---
 
-thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/thumbnail/manjaro/manjaro-dog.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/thumbnail/manjaro/manjaro-dog.jpg
 title: 优化Manjaro
 date: 2020-5-17 18:00
 author: shepherd

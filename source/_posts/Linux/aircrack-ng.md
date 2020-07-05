@@ -1,5 +1,5 @@
 ---
-thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/thumbnail/st.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/thumbnail/st.jpg
 title: aircrack-ng破解wifi
 date: 2020-5-4
 author: shepherd
@@ -20,13 +20,13 @@ tags: [aircrack-ng]
 
 使用`iwconfig`查看网卡加载情况
 
-![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/iwconfig.png)
+![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/iwconfig.png)
 
 ## step2
 
 `airmon-ng check kill`杀掉所有网络进程
 
-![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/kill-net.png)
+![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/kill-net.png)
 
 如果杀掉后自动启动的话，建议使用`systemctl stop`杀得彻底些
 
@@ -34,17 +34,17 @@ tags: [aircrack-ng]
 
 `airmon-ng start wlp0s20f0u1`启动网卡监听模块
 
-![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/start-mon.png)
+![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/start-mon.png)
 
 注意网卡名字会变成`wlp0s20f0u1mon`
 
-![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/monitor.png)
+![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/monitor.png)
 
 ## step4
 
 `airodump-ng wlp0s20f0u1mon`开始监听
 
-![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/net-monitor.png)
+![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/net-monitor.png)
 
 - PWR是信号强度，越小信号越强
 - CH代表信道
@@ -57,7 +57,7 @@ tags: [aircrack-ng]
 - --bssid，指的是AP mac地址
 - -w，输出的文件路径
 
-![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/airodump-ng.png)
+![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/airodump-ng.png)
 
 `STATION`代表的是设备mac，由几个mac就代表有几个设备
 
@@ -67,11 +67,11 @@ tags: [aircrack-ng]
 
 `aireplay-ng -0 0 -a AP_mac -c 设备mac wlp0s20f0u1mon`强制wifi掉线
 
-![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/aireplay-ng.png)
+![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/aireplay-ng.png)
 
 （希望对面邻居不要生气）当对方重连时就会抓到握手包
 
-![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/handsnake.png)
+![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/handsnake.png)
 
 ## step7
 

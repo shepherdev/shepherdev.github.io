@@ -1,7 +1,7 @@
 ---
 date: 2019-11-25 14:49:08
 comments: false
-thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/blog/mito1.png
+thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/blog/mito1.png
 ---
 
 <div class = "text-center"><h1>碎碎念</h1></div><div class = "text-tips">

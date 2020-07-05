@@ -1,7 +1,7 @@
 # Version of the configuration file
 version: 3.0.0
 # Path or URL to the website's logo
-logo: /img/logo.png #https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io/static/img/2019/20191121115040.png
+logo: /img/logo.png #https://cdn.jsdelivr.net/gh/removeif/shepherdev.github.io@hexo/static/img/2019/20191121115040.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
@@ -128,12 +128,12 @@ donate:
         # Donation entry name
         type: alipay
         # Qrcode image URL
-        qrcode: 'https://raw.githubusercontent.com/shepherdev/shepherdev.github.io/static/master/img/2019/20190802135456.png'
+        qrcode: 'https://raw.githubusercontent.com/shepherdev/shepherdev.github.io@hexo/static/master/img/2019/20190802135456.png'
     -
         # Donation entry name
         type: wechat
         # Qrcode image URL
-        qrcode: 'https://raw.githubusercontent.com/shepherdev/shepherdev.github.io/static/master/img/2019/20190802135550.png'
+        qrcode: 'https://raw.githubusercontent.com/shepherdev/shepherdev.github.io@hexo/static/master/img/2019/20190802135550.png'
 #    -
 #    -
 #        type: patreon

@@ -1,5 +1,5 @@
 ---
-thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/thumbnail/network.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/thumbnail/network.jpg
 title: wifiphisher安装与使用
 date: 2020-4-30
 author: shepherd
@@ -38,7 +38,7 @@ ImportError: cannot import name hostapd_controller
 
 在终端使用`wifiphisher`进入了界面，但是搜不到接入点
 
-![wifiphisher](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/wifiphisher.png)
+![wifiphisher](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/wifiphisher.png)
 
 可能是网卡的缘故吧，官方对网卡的要求
 
@@ -85,19 +85,19 @@ sudo wifiphisher -i wlp0s20f0u1
 
 成功了！
 
-<img src="https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/wifiphisher-ap.png" style="zoom:33%;" />
+<img src="https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/wifiphisher-ap.png" style="zoom:33%;" />
 
 选择攻击目标后的钓鱼方案
 
-<img src="https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/wifiphisher-phis.png" style="zoom:33%;" />
+<img src="https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/wifiphisher-phis.png" style="zoom:33%;" />
 
 攻击成功！
 
-<img src="https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/wifiphisher-phis2.png" style="zoom: 33%;" />
+<img src="https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/wifiphisher-phis2.png" style="zoom: 33%;" />
 
 手机连接后跳转界面
 
-<img src="https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io/static/article/2020/wifiphisher-moban.png" style="zoom: 25%;" />
+<img src="https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/wifiphisher-moban.png" style="zoom: 25%;" />
 
 选择攻击方案的模板可自定义，在我的电脑上模板路径是`/usr/lib/python3.8/site-packages/wifiphisher-1.4-py3.8.egg/wifiphisher/data/phishing-pages`
 
