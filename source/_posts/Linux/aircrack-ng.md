@@ -69,15 +69,13 @@ tags: [aircrack-ng]
 
 ![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/aireplay-ng.png)
 
-（希望对面邻居不要生气）当对方重连时就会抓到握手包
+重连时就会抓到握手包
 
 ![](https://cdn.jsdelivr.net/gh/shepherdev/shepherdev.github.io@hexo/static/article/2020/handsnake.png)
 
 ## step7
 
 `aircrack-ng -a2 -b AP_mac -w 字典.txt filename.cap`跑字典，爆破密码
-
-字典去网上找吧
 
 ## 参考文献
 
