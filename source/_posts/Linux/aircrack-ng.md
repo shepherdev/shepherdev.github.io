@@ -77,8 +77,6 @@ tags: [aircrack-ng]
 
 `aircrack-ng -a2 -b AP_mac -w 字典.txt filename.cap`跑字典，爆破密码
 
-字典去网上找吧
-
 ## 参考文献
 
 [【无线攻防】使用aircrack-ng工具破解wifi密码](https://blog.csdn.net/nuoya_1995/article/details/52402728)
